@@ -1,0 +1,1 @@
+This is a house prediction using Python. It contains a Data Cleaning, an EDA, and finally four types of regression (OLS 1°, 2°, 3°, and a Regression Random Forest).
